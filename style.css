@@ -1,0 +1,185 @@
+
+body
+{
+	background-color: #8BA1BB ;
+	font-family: arial;
+	
+	
+	
+}
+
+div.recette
+{
+	text-align: center;
+	margin-bottom: -20px
+	
+}
+
+p.recette
+{
+	background-color: black;
+	color: white;
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 40px;
+	padding: 8px 18px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+
+div.contenu
+{
+	background-color: white;
+	margin: 0px 10% 80px 10%;
+	padding: 30px;
+	box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1
+{
+	text-align: center;
+}
+
+
+div.gateau
+{
+	text-align: center;
+	margin: 10px;	
+}
+
+p.gateau
+{
+	text-align: center;
+	max-width: 400px;
+	display: inline-block;	
+}
+
+hr 
+{
+	max-width: 200px;
+	color: black;
+}
+
+ img
+{
+	display: block;
+	 width: 100%;
+}
+
+div.image
+{
+	position: relative;
+	display: block;
+}
+
+table.image2
+{
+	position: absolute;
+	color: blue;
+	
+	width: 75.7%;
+	bottom: -204px;
+	color: white;
+	background: #6c829d;
+	opacity: 069%;
+	height: 0px;
+	
+	
+}
+
+td
+{
+	text-align: center;
+	font-size: 16px;
+	vertical-align: top;
+	
+}
+
+th
+{
+	vertical-align: bottom;
+	padding: 12px;
+}
+
+div.ol
+{
+	float: right;
+	
+	text-align: center;
+	margin-top: 30px;
+
+}
+
+div.ol1
+{
+	
+	text-align: center;
+	display: inline-block;
+	margin-top: 30px;
+	
+}
+
+div.ol1, div.ol
+{
+	width: 45%;
+}
+
+h2.ol1, h2.ol
+{
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: 5px solid #6c829d;
+	padding: 5px;
+}
+
+ol
+{
+	text-align:center;
+}
+
+div.menu p
+{
+	display: block;
+	border: 1px solid lightgray;
+	font-size: 20px;
+	padding: 8px;
+	margin-top: 4px;
+	margin-bottom: 0px;
+}
+
+table.menu tr, td
+{
+	font-size: 20px;
+	text-align: center;
+	padding: 15px;
+}
+
+/*table.menu p.preparation 
+{
+	background-color: #6c829d;
+	color: white;
+	
+}*/
+
+td.preparation
+{
+	background-color: #6c829d;
+	color: white;
+	width: 60px;
+	height: 60px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 24px;
+	box-sizing: border-box;
+	border-radius: 100%;
+}
+
+*
+{
+	overflow: auto;
+}
+
